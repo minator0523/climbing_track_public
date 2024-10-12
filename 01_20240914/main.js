@@ -82,7 +82,7 @@ map.on('click', 'photo_point', (e) => {
   var path = e.features[0].properties.name;
   var datetime = e.features[0].properties.datetime;
  
-  popup_str = "<div id="popup">日時：" + datetime + "<br>標高：" + altitude + " [m]<br><img src=" + path + " height='300' ></div>";
+  popup_str = "日時：" + datetime + "<br>標高：" + altitude + " [m]<br><img src=" + path + " height='300' >";
 
   while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
     coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
