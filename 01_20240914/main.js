@@ -91,6 +91,10 @@ map.on('click', 'photo_point', (e) => {
   new maplibregl.Popup({
     offset: 10, // ポップアップの位置
     closeButton: false, // 閉じるボタンの表示
+    maxHeight: '400px',
+    maxWidth: '800px',
+    className: 'popup',
+    background: 'blue'
   })
     .setLngLat(coordinates)
     .setHTML(popup_str)
