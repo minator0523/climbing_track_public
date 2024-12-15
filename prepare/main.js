@@ -18,7 +18,7 @@ const map = new maplibregl.Map({
       //トラックデータ
       track :{
         type: 'geojson',
-        data: './01_data/track.geojson'
+        data: './10_data/track.geojson'
       },
     },
     // 表示するレイヤ
@@ -61,7 +61,7 @@ map.on('load', async () => {
 
   map.addSource('picture_point', {
     type: 'geojson',
-    data: './01_data/img_info.geojson',
+    data: './10_data/img_info.geojson',
   });
   map.addLayer({
     id: 'photo_point',

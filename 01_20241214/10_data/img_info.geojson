@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"name": "img_info",
+"features": [
+{ "type": "Feature", "properties": { "datetime": "2024:12:14 06:48:11", "altitude": 376.35, "name": "./img/PXL_20241213_214811296.jpg" }, "geometry": { "type": "Point", "coordinates": [ 139.098267, 35.806942 ] } },
+{ "type": "Feature", "properties": { "datetime": "2024:12:14 06:58:43", "altitude": 468.3, "name": "./img/PXL_20241213_215843668.jpg" }, "geometry": { "type": "Point", "coordinates": [ 139.097656, 35.805331 ] } },
+{ "type": "Feature", "properties": { "datetime": "2024:12:14 07:05:10", "altitude": 535.95, "name": "./img/PXL_20241213_220510367.jpg" }, "geometry": { "type": "Point", "coordinates": [ 139.097014, 35.804558 ] } },
+{ "type": "Feature", "properties": { "datetime": "2024:12:14 07:49:21", "altitude": 779.93, "name": "./img/PXL_20241213_224921183.jpg" }, "geometry": { "type": "Point", "coordinates": [ 139.098917, 35.795786 ] } },
+{ "type": "Feature", "properties": { "datetime": "2024:12:14 08:24:13", "altitude": 939.48, "name": "./img/PXL_20241213_232413981.jpg" }, "geometry": { "type": "Point", "coordinates": [ 139.102922, 35.788575 ] } },
+{ "type": "Feature", "properties": { "datetime": "2024:12:14 08:58:08", "altitude": 1149.61, "name": "./img/PXL_20241213_235808838.jpg" }, "geometry": { "type": "Point", "coordinates": [ 139.105922, 35.779264 ] } },
+{ "type": "Feature", "properties": { "datetime": "2024:12:14 08:59:07", "altitude": 1150.24, "name": "./img/PXL_20241213_235857273.PANO.jpg" }, "geometry": { "type": "Point", "coordinates": [ 139.105911, 35.779219 ] } },
+{ "type": "Feature", "properties": { "datetime": "2024:12:14 09:23:42", "altitude": 1105.49, "name": "./img/PXL_20241214_002342949.jpg" }, "geometry": { "type": "Point", "coordinates": [ 139.110569, 35.7755 ] } },
+{ "type": "Feature", "properties": { "datetime": "2024:12:14 09:30:51", "altitude": 1121.98, "name": "./img/PXL_20241214_003051708.jpg" }, "geometry": { "type": "Point", "coordinates": [ 139.114461, 35.773797 ] } },
+{ "type": "Feature", "properties": { "datetime": "2024:12:14 10:17:38", "altitude": 1306.76, "name": "./img/PXL_20241214_011738676.jpg" }, "geometry": { "type": "Point", "coordinates": [ 139.130422, 35.765192 ] } },
+{ "type": "Feature", "properties": { "datetime": "2024:12:14 10:19:59", "altitude": 1305.77, "name": "./img/PXL_20241214_011953728.PANO.jpg" }, "geometry": { "type": "Point", "coordinates": [ 139.130353, 35.765156 ] } },
+{ "type": "Feature", "properties": { "datetime": "2024:12:14 10:21:10", "altitude": 1304.35, "name": "./img/PXL_20241214_012110759.jpg" }, "geometry": { "type": "Point", "coordinates": [ 139.130408, 35.765219 ] } },
+{ "type": "Feature", "properties": { "datetime": "2024:12:14 12:04:41", "altitude": 838.16, "name": "./img/PXL_20241214_030441851.jpg" }, "geometry": { "type": "Point", "coordinates": [ 139.133369, 35.752089 ] } },
+{ "type": "Feature", "properties": { "datetime": "2024:12:14 12:44:55", "altitude": 458.15, "name": "./img/PXL_20241214_034455841.jpg" }, "geometry": { "type": "Point", "coordinates": [ 139.132833, 35.744064 ] } },
+{ "type": "Feature", "properties": { "datetime": "2024:12:14 12:55:52", "altitude": 348.11, "name": "./img/PXL_20241214_035552699.jpg" }, "geometry": { "type": "Point", "coordinates": [ 139.134997, 35.740439 ] } },
+{ "type": "Feature", "properties": { "datetime": "2024:12:14 13:12:59", "altitude": 340.9, "name": "./img/PXL_20241214_041259810.jpg" }, "geometry": { "type": "Point", "coordinates": [ 139.143489, 35.737892 ] } },
+{ "type": "Feature", "properties": { "datetime": "2024:12:14 13:29:41", "altitude": 270.0, "name": "./img/PXL_20241214_042941420.jpg" }, "geometry": { "type": "Point", "coordinates": [ 139.143164, 35.730283 ] } },
+{ "type": "Feature", "properties": { "datetime": "2024:12:14 13:33:09", "altitude": 318.2, "name": "./img/PXL_20241214_043309864.jpg" }, "geometry": { "type": "Point", "coordinates": [ 139.143942, 35.729614 ] } },
+{ "type": "Feature", "properties": { "datetime": "2024:12:14 13:33:24", "altitude": 318.2, "name": "./img/PXL_20241214_043324599.jpg" }, "geometry": { "type": "Point", "coordinates": [ 139.143942, 35.729614 ] } },
+{ "type": "Feature", "properties": { "datetime": "2024:12:14 14:14:06", "altitude": 265.5, "name": "./img/PXL_20241214_051406313.jpg" }, "geometry": { "type": "Point", "coordinates": [ 139.190519, 35.726608 ] } },
+{ "type": "Feature", "properties": { "datetime": "2024:12:14 14:14:54", "altitude": 265.5, "name": "./img/PXL_20241214_051454686.jpg" }, "geometry": { "type": "Point", "coordinates": [ 139.190519, 35.726608 ] } }
+]
+}
